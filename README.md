@@ -18,5 +18,8 @@ The goal of this project was to experiment and develop my personal coding abilty
 
 ## Optimizations
 
-Additional operations including filtering and sorting of tasks
+- Additional operations including filtering and sorting of tasks
+- Auto-save feature
+- Duplication preventation
+
 
